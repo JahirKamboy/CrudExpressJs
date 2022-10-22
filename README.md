@@ -1,3 +1,3 @@
-López Cruz Angel Jahir
-Ruiz Acajabon Javier Alejandro
+López Cruz Angel Jahir /n
+Ruiz Acajabon Javier Alejandro /n
 Crud ExpressJS
